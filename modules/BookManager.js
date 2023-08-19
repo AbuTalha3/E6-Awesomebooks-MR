@@ -1,4 +1,4 @@
-import Book from './Book';
+import Book from './Book.js';
 
 export default class BookManager {
   constructor() {
