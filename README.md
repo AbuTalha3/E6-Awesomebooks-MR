@@ -1,5 +1,5 @@
 # E6-Awesomebooks-MR
-In this project, I have restructured my Awesome books app code. And made it more organized by using modules. I have used ES6 syntax . Refactoring of code is done and the app is functioning perfect as it was previously.
+In this project, I have restructured my Awesome Books app code. And made it more organized by using modules. I have used ES6 syntax . Refactoring of code is done and the app is functioning perfect as it was previously. The app can store books with an Author and unique Id for the book.
 ## 👥 Author <a name="author"></a>
 
 👤 **Abu Talha**
