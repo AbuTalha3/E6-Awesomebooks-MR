@@ -1,7 +1,3 @@
-# E6-Awesomebooks-MR
-
-<a name="readme-top"></a>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -127,8 +123,6 @@ sh
 - GitHub: [@githubhandle](https://github.com/AbuTalha3)
 - Twitter: [@twitterhandle](https://twitter.com/AbuTalha8T)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abu-talha-8203b252/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
