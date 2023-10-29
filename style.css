@@ -1,0 +1,234 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: x-large;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+  padding: 5px;
+}
+
+.container {
+  display: grid;
+  gap: 20px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+main .content-section {
+  display: none;
+}
+
+main .content-section.active {
+  display: block;
+}
+
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#book-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+button {
+  background-color: #dc3545;
+  color: #fff;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #317029;
+}
+
+span {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+/* NAVIGATION */
+nav {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  border: 1px solid rgb(106, 106, 106);
+  border-radius: 0.3rem;
+  width: 90%;
+  margin: 1rem auto 0;
+}
+
+nav > a {
+  color: rgb(106, 106, 106);
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+nav ul a {
+  font-weight: 700;
+  color: rgb(186, 175, 175);
+}
+
+nav ul a:active {
+  font-weight: bolder;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: x-large;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+nav ul li {
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000;
+  padding: 5px;
+}
+
+.container {
+  display: grid;
+  gap: 20px;
+  width: 300px;
+  margin: 20px auto;
+}
+
+main .content-section {
+  display: none;
+}
+
+main .content-section.active {
+  display: block;
+}
+
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+#bookData {
+  background-color: rgb(215, 178, 247);
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  gap: 4px;
+  font-size: larger;
+  font-family: 'poppins', sans-serif;
+}
+
+#bookForm {
+  display: grid;
+  position: relative;
+}
+
+#bookForm input {
+  background-color: rgb(235, 232, 237);
+  padding: 7px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+
+.book-lists button {
+  padding: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-size: medium;
+}
+
+#bookForm button {
+  position: absolute;
+  right: 0;
+  margin-top: 60px;
+  width: 35%;
+  padding: 5px;
+  font-family: 'Poppins', sans-serif;
+  font-size: medium;
+}
+
+/* .book-lists {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 15px;
+  align-items: center;
+} */
+
+.rung {
+  gap: 10px;
+  padding-top: 10px;
+  font-family: 'poppins', sans-serif;
+  font-size: large;
+  margin-top: 50px;
+}
+
+.contact-heading {
+  gap: 10px;
+  padding-top: 10px;
+  font-family: 'poppins', sans-serif;
+  font-size: large;
+}
